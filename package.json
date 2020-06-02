@@ -13,6 +13,17 @@
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbarnes7282/node-api2-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelbarnes7282/node-api2-project/issues"
+  },
+  "homepage": "https://github.com/michaelbarnes7282/node-api2-project#readme"
 }
